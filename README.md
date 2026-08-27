@@ -3,8 +3,8 @@ Requirements management and BDD scenarios using Gherkin for UMB Software Process
 # Unit 2: Modern Requirements Management with BDD and Jira
 
 ## Team Members
-* Student 1 Name - Code
-* Student 2 Name - Code
+* Sheril Bolaño Payares 
+* Sergio Alejandro Ramírez Sosa
 * Juan David Roa García - Code
 
 ## Project Deliverables
