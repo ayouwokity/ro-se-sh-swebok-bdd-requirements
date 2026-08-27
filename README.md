@@ -8,8 +8,8 @@ Requirements management and BDD scenarios using Gherkin for UMB Software Process
 * Juan David Roa García - Code
 
 ## Project Deliverables
-* **Jira Scrum Board:** [Link to your Jira board or PDF export]
-* **YouTube Video Link:** [Link to your YouTube autonomous check video]
+* **Jira Scrum Board:** https://ryozzze.atlassian.net/jira/software/projects/PROC/boards/2/backlog?atlOrigin=eyJpIjoiZWM5OWNiNTVjYzk4NGMyMWE4NDU0MWQ3NmExNjlmNTUiLCJwIjoiaiJ9
+
 
 ## SWEBOK v4.0 & BDD Summary
 This repository contains the BDD feature file in Gherkin syntax representing the acceptance criteria for our Colombian business use case.
